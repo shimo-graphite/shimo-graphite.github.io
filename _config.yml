@@ -5,7 +5,7 @@ baseurl:
 url: https://shimo-graphite.github.io
 date_format: "ordinal"
 title: 石墨
-subtitle: "一个讲故事的人， LOFTER@石墨"
+subtitle: "LOFTER@石墨"
 description: "APH新大陆家族狂热爱好者"
 keywords: 
 timezone: Asia/Shanghai
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: shimo
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+# github_username: mzlogin
+# location: Wuhan, China
+# email: chumpma@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -71,7 +71,7 @@ navs:
 
   -
     href: /links/
-    label: Lofter地址
+    label: Lofter
 
   -
     href: /about/
