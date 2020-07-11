@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【新大陆】Love is Air
-categories: [APH,新大陆,Dover,北米,长篇,日常]
+categories: [APH,新大陆,Dover,北米,中篇,日常]
 description:
 keywords:
 ---
